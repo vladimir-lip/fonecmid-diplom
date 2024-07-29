@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c5f20e22-ecda-4a5b-901d-82f2f0b6145e">
+  <producedTypes>
+    <objectType typeId="95db02d6-f474-4893-b1a8-be669c36c3c9" valueTypeId="3ce43a56-1264-4485-9122-437934562e61"/>
+    <refType typeId="724cfbd4-556a-434b-866a-dc401e6661ce" valueTypeId="2c92cf95-b3a7-4226-ace3-3cd549442724"/>
+    <selectionType typeId="e0fc974b-d0bc-44d0-b2fd-0a22f2ce87c1" valueTypeId="1484ff7f-08d9-44b0-9265-61f7f68a9038"/>
+    <listType typeId="f8f89da0-abee-4a28-ad39-5ef5532b8c1a" valueTypeId="377287ad-727a-4636-89d1-3cfef84ffe70"/>
+    <managerType typeId="df8d5dc1-8f26-485d-b267-5f0a51c9f381" valueTypeId="a3c75a4d-cbb3-4e3b-81cd-564ce68195fb"/>
+  </producedTypes>
+  <name>РаботыПоАбонентскомуДоговору</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работы по абонентскому договору</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.РаботыПоАбонентскомуДоговору.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.РаботыПоАбонентскомуДоговору.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
